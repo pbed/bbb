@@ -19,10 +19,10 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 1,
+    pid: 2,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'PIKACHU',
+    lpSymbol: 'PIKACHU o',
     lpAddresses: {
       97: '',
       56: '0x45b604027262cca499519ef66ed768c43211e0cf', // PIKACHU-BUSD LP
@@ -36,7 +36,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 2,
+    pid: 1,
     risk: 1,
     isTokenOnly: true,
     lpSymbol: 'BUSD',
