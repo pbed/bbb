@@ -30,7 +30,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
-      56: '0xd592dfe9e1b687b1d9dbdacf5b9f0789cc9cd584',
+      56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
